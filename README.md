@@ -28,7 +28,7 @@ Submit a pull request or send me an e-mail if you want us to add yours!
 
 Everything is built on the basic Mecrisp-Stellaris build, and all of the extra(neous) code is pushed to the chip from include files in the `core` directory.  Basically, you can experiment with dropping some of the requirements, or just see what's behind the various versions by tweaking your own.  Mix and match!
 
-Caveat Programmator!  The dependencies among Forth files isn't well laid out like it is in C or any other programming language you know.  This could be fixed any number of ways, but I just haven't gotten around to it.  I tried to make notes of some of the dependencies in the files themselves.  But, man, that's a lot of reading. 
+Caveat Programmator!  The dependencies among Forth files isn't well laid out like it is in C or any other programming language you know.  This could be fixed any number of ways, but I just haven't gotten around to it.  I tried to make notes of some of the dependencies in the files themselves.  But, indeed, that's a lot of reading. 
 
 If you have a good custom ROM setup, submit a pull request or shoot me an e-mail.
 
